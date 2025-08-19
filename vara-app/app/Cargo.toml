@@ -1,0 +1,7 @@
+[package]
+name = "vara-app-app"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+sails-rs = "0.8.1"

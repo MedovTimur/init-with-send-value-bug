@@ -5699,6 +5699,7 @@ dependencies = [
 name = "vara-app-app"
 version = "0.1.0"
 dependencies = [
+ "gstd",
  "sails-rs",
 ]
 
